@@ -1,0 +1,3 @@
+to compile : javac namefile.java 
+to run : java namefile.java 
+to run with input: java namefile.java input (eg: java bonjour.java Ana De Armas)

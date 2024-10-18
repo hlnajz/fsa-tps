@@ -1,0 +1,5 @@
+nextInt(): Reads an integer.
+nextFloat() or nextDouble(): Reads a floating-point number.
+nextLine(): Reads an entire line of text.
+next(): Reads a single word (until a space or newline).
+Note: There is no nextChar() method for reading characters directly.

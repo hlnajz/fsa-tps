@@ -1,0 +1,5 @@
+Explanation of the Formatting:
+%s: Placeholder for a string.
+%d: Placeholder for an integer (age).
+%.2f: Placeholder for a floating-point number with 2 decimal places (height).
+%n: Inserts a newline (same as \n in C).
